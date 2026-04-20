@@ -161,5 +161,4 @@ This project is licensed under the ISC License – feel free to use it for your 
 
 ---
 
-Built with ❤️ and a lot of ☕. Happy coding!</content>
-<parameter name="filePath">c:\Users\Besukal\Desktop\Secured Auth System\README.md
+Built with ❤️ and a lot of ☕. Happy coding!
