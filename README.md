@@ -17,19 +17,19 @@ Key highlights:
 
 We've handpicked the best tools to make this system lightning-fast and developer-friendly. Here's the arsenal:
 
-| Category          | Technologies                                                                 | Icons |
-|-------------------|------------------------------------------------------------------------------|-------|
-| **Runtime**      | Node.js                                                                     | 🟢   |
-| **Framework**    | Express.js                                                                  | 🚀   |
-| **Language**     | TypeScript                                                                  | 🔷   |
-| **Database**     | MongoDB (with Mongoose ODM)                                                 | 🍃   |
-| **Authentication**| JWT (JSON Web Tokens), bcryptjs                                             | 🔐   |
-| **Validation**   | Zod                                                                         | ✅   |
-| **File Upload**  | Multer, Cloudinary                                                          | ☁️   |
-| **Email**        | Nodemailer                                                                  | 📧   |
-| **OAuth**        | Google Auth Library                                                         | 🔵   |
-| **Security**     | Helmet, CORS, Express Rate Limit, Express Mongo Sanitize                    | 🛡️   |
-| **Development**  | Nodemon, ts-node-dev                                                        | 🔄   |
+| Category          | Technologies                                                                 | 
+|-------------------|------------------------------------------------------------------------------|
+| **Runtime**      | Node.js                                                                     |
+| **Framework**    | Express.js                                                                  |
+| **Language**     | TypeScript                                                                  |
+| **Database**     | MongoDB (with Mongoose ODM)                                                 |
+| **Authentication**| JWT (JSON Web Tokens), bcryptjs                                             |
+| **Validation**   | Zod                                                                         |
+| **File Upload**  | Multer, Cloudinary                                                          |
+| **Email**        | Nodemailer                                                                  |
+| **OAuth**        | Google Auth Library                                                         |
+| **Security**     | Helmet, CORS, Express Rate Limit, Express Mongo Sanitize                    |
+| **Development**  | Nodemon, ts-node-dev                                                        |
 
 ## ✨ Features
 
